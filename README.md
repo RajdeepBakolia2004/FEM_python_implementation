@@ -9,7 +9,7 @@ This is done as a part of summer project under professor Thirupathi Gudi in IISc
 
 ## Table of Contents
  
--[Description](#description)
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
